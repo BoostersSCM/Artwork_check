@@ -1,6 +1,7 @@
 streamlit
 pdfplumber
-pandas
 pytesseract
 Pillow
 PyMuPDF
+pyspellchecker
+py-hanspell
