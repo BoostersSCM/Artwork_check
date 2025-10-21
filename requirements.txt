@@ -4,4 +4,3 @@ pytesseract
 Pillow
 PyMuPDF
 pyspellchecker
-py-hanspell
