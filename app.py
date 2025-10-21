@@ -5,6 +5,7 @@ from PIL import Image
 from io import BytesIO
 import fitz  # PyMuPDF
 import re
+import tempfile
 from spellchecker import SpellChecker
 
 st.set_page_config(page_title="AI/PDF 오타 검증기", layout="wide")
